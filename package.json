@@ -1,0 +1,24 @@
+{
+  "name": "samplenodeapi",
+  "version": "1.0.0",
+  "description": "sample node api with 'cors' permission",
+  "main": "index.js",
+  "dependencies": {
+    "cors": "^2.8.4",
+    "express": "^4.15.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "sample"
+  },
+  "keywords": [
+    "sample",
+    "api"
+  ],
+  "author": "Ishanka",
+  "license": "ISC"
+}
